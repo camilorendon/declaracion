@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+}
+body{
+    height: 400px;
+    background-image: url("https://dbdzm869oupei.cloudfront.net/img/alfombretaratoli/preview/41117.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
